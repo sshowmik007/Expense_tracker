@@ -1,9 +1,9 @@
-import { useState } from "react";
+import ExpensePage from "./features/expense-tracker/pages/ExpensePage";
 
 function App() {
 	return (
 		<>
-			<div>REACT</div>
+			<ExpensePage />
 		</>
 	);
 }
